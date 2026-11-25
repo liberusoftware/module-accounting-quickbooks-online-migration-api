@@ -3,13 +3,14 @@
   "name": "accounting-quickbooks-online-migration-api",
   "display_name": "Accounting QuickBooks Online Migration API",
   "description": "HTTP API for QuickBooks Online migration.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\QuickBooksOnlineMigrationApi\\QuickBooksOnlineMigrationApiServiceProvider",
   "requires": {
     "php": "^8.5",
     "laravel": "^13.0",
     "packages": {
+      "liberusoftware/module-accounting-erp": "^1.0",
       "liberusoftware/module-accounting-quickbooks-online-migration": "^1.0"
     }
   },

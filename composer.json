@@ -23,11 +23,12 @@
   "name": "liberusoftware/module-accounting-quickbooks-online-migration-api",
   "description": "QuickBooks Online migration API adapter.",
   "require": {
-    "liberusoftware/module-accounting-quickbooks-online-migration": "^1.0",
-    "php": "^8.5",
+    "illuminate/http": "^13.38.0",
     "illuminate/routing": "^13.38.0",
-    "illuminate/http": "^13.38.0"
+    "liberusoftware/module-accounting-erp": "^1.0",
+    "liberusoftware/module-accounting-quickbooks-online-migration": "^1.0",
+    "php": "^8.5"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT"
 }
