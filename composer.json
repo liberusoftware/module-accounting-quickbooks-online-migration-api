@@ -29,6 +29,6 @@
     "liberusoftware/module-accounting-quickbooks-online-migration": "^1.0",
     "php": "^8.5"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT"
 }
